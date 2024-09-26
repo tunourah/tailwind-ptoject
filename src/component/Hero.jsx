@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="max-w-xl px-6">
           <h1 className="text-4xl lg:text-6xl font-bold">Concisely describe your product or service</h1>
           <p className="mt-4">No need to get clever. Tell people exactly what you're offering...</p>
-          <button className="mt-6 bg-yellow-500 text-black py-3 px-6 rounded-lg font-bold">Order Now</button>
+          <button className="mt-6 bg-yellow-500 text-black py-3 px-6 rounded-lg font-bold hover:bg-orange-200">Order Now</button>
         </div>
       </div>
     </section>
